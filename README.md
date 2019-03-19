@@ -1,10 +1,7 @@
 # 區塊鏈隱私技術資源 | Blockchain privacy technology resources
 ![](https://img.shields.io/badge/Powered%20by-Chen%20Po%20Wei-blue.svg)
-![](Blockchain-and-privacy.jpg)
 
 ![優秀的隱私](http://harding.github.io/img/bitcoin-core/slider-privacy.svg)
-
-[下載比特幣核心](http://harding.github.io/en/download) ![Linux的](http://harding.github.io/img/os/linux.png) ![Linux的](http://harding.github.io/img/os/linux.png) ![Linux的](http://harding.github.io/img/os/linux.png)
 
 > 如果您每次花費或收到現金，所有交易詳情都會發佈到您的Twitter或Facebook Feed中供所有朋友查看？你可能不想再使用現金了。
 
