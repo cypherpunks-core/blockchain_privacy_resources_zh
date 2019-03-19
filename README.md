@@ -1,5 +1,6 @@
 # 區塊鏈隱私技術資源 | Blockchain privacy technology resources
 ![](https://img.shields.io/badge/Powered%20by-Chen%20Po%20Wei-blue.svg)
+![](Blockchain-and-privacy.jpg)
 ## 概觀 | Overview
 
 隱私技術將成為加密設備領域最重要的部分之一。我們已經編制了一系列資源，介紹了機密交易，MimbleWimble，環簽名和零知識證明等概念。 
