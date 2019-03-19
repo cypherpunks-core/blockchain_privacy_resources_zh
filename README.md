@@ -2,7 +2,9 @@
 ![](https://img.shields.io/badge/Powered%20by-Chen%20Po%20Wei-blue.svg)
 ![](Blockchain-and-privacy.jpg)
 
-***[Bitcoin Core 中的隱私](bitcoincore-privacy.md)***
+主要參考：
+* ***[Bitcoin Core 中的隱私](bitcoincore-privacy.md)***
+* ***[Privacy Technologies](https://messari.io/resource/privacy-technologies)***
 
 ## 目錄 | Contents
 <!-- MarkdownTOC -->
