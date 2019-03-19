@@ -246,3 +246,4 @@ MimbleWimble是一個隱私和基層可擴展性的區塊鏈協議，最初於20
 ## 其他文章 | Other articles
 * [比特幣混合服務的政治](article/比特幣混合服務的政治.md)
 * [CoinJoin：現實世界的比特幣隱私](article/CoinJoin：現實世界的比特幣隱私.md)
+* [真的是最終的區塊鏈壓縮：CoinWitness](article/真的是最終的區塊鏈壓縮：CoinWitness.md)
