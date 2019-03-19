@@ -7,14 +7,14 @@
 ## 目錄 | Contents
 <!-- MarkdownTOC -->
 
-1. [概觀 | Overview](#概觀-|-overview)
-1. [背景 | Background](#背景-|-background)
-1. [機密交易 | Confidential Transactions](#機密交易-|-confidential-transactions)
-1. [零知識證明 | Zero Knowledge Proofs](#零知識證明-|-zero-knowledge-proofs)
-1. [環簽名 | Ring Signatures](#環簽名-|-ring-signatures)
-1. [MimbleWimble](#mimblewimble)
-1. [蒲公英 | Dandelion](#蒲公英-|-dandelion)
-1. [防彈 | Bulletproofs](#防彈-|-bulletproofs)
+- [概觀 | Overview](#概觀-|-overview)
+- [背景 | Background](#背景-|-background)
+- [機密交易 | Confidential Transactions](#機密交易-|-confidential-transactions)
+- [零知識證明 | Zero Knowledge Proofs](#零知識證明-|-zero-knowledge-proofs)
+- [環簽名 | Ring Signatures](#環簽名-|-ring-signatures)
+- [MimbleWimble](#mimblewimble)
+- [蒲公英 | Dandelion](#蒲公英-|-dandelion)
+- [防彈 | Bulletproofs](#防彈-|-bulletproofs)
 
 <!-- /MarkdownTOC -->
 
