@@ -245,3 +245,4 @@ MimbleWimble是一個隱私和基層可擴展性的區塊鏈協議，最初於20
 <a id="其他文章-|-other-articles"></a>
 ## 其他文章 | Other articles
 * [比特幣混合服務的政治](article/比特幣混合服務的政治.md)
+* [CoinJoin：現實世界的比特幣隱私](article/CoinJoin：現實世界的比特幣隱私.md)
