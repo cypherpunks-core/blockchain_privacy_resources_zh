@@ -7,26 +7,27 @@
 * ***[Privacy Technologies](https://messari.io/resource/privacy-technologies)***
 
 ## 目錄 | Contents
-<!-- MarkdownTOC -->
 
-- [概觀 | Overview](#概觀-|-overview)
-- [背景 | Background](#背景-|-background)
-- [機密交易 | Confidential Transactions](#機密交易-|-confidential-transactions)
-- [零知識證明 | Zero Knowledge Proofs](#零知識證明-|-zero-knowledge-proofs)
-- [環簽名 | Ring Signatures](#環簽名-|-ring-signatures)
-- [MimbleWimble](#mimblewimble)
-- [蒲公英 | Dandelion](#蒲公英-|-dandelion)
-- [防彈 | Bulletproofs](#防彈-|-bulletproofs)
-- [其他文章 | Other articles](#其他文章-|-other-articles)
+<!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
+- [區塊鏈隱私資源 | Blockchain privacy resources](#區塊鏈隱私資源--blockchain-privacy-resources)
+	- [目錄 | Contents](#目錄--contents)
+	- [概觀 | Overview](#概觀--overview)
+	- [背景 | Background](#背景--background)
+	- [機密交易 | Confidential Transactions](#機密交易--confidential-transactions)
+	- [零知識證明 | Zero Knowledge Proofs](#零知識證明--zero-knowledge-proofs)
+	- [環簽名 | Ring Signatures](#環簽名--ring-signatures)
+	- [MimbleWimble](#mimblewimble)
+	- [蒲公英 | Dandelion](#蒲公英--dandelion)
+	- [防彈 | Bulletproofs](#防彈--bulletproofs)
+	- [其他文章 | Other articles](#其他文章--other-articles)
+<!-- TOC END -->
 
-<!-- /MarkdownTOC -->
 
-<a id="概觀-|-overview"></a>
+
 ## 概觀 | Overview
 
 隱私技術將成為加密設備領域最重要的部分之一。我們已經編制了一系列資源，介紹了機密交易，MimbleWimble，環簽名和零知識證明等概念。 
 
-<a id="背景-|-background"></a>
 ## 背景 | Background
 
 對使用比特幣和其他數字資產的更多私密，機密，秘密和匿名方式的需求日益增長，這促使各種協議和應用程序開發人員發布改進和提供更好隱私的產品。
@@ -80,7 +81,6 @@
 * 關於Satoshi硬幣背景下比特幣隱私問題和匿名性改進的一般調查
 	* [誰會竊取Satoshi的比特幣？](https://medium.com/@nopara73/stealing-satoshis-bitcoins-cc4d57919a2b) -  Adam Ficsor
 
-<a id="機密交易-|-confidential-transactions"></a>
 ## 機密交易 | Confidential Transactions
 
 機密交易是Adam Back在2014年討論的一種隱私方法，它混淆了交易金額，並且只向發送方，接收方和被選中的任何其他方公開此信息，以便查看此信息並提供參與者更簡單或更任意的證據。
@@ -109,7 +109,6 @@
 * 解釋為什麼機密交易可以改善隱私以及有關如何實施此技術的分歧
 	* [機密交易/防彈：房間裡的大象](https://medium.com/@nopara73/confidential-transactions-bulletproofs-the-elephant-in-the-room-cfdb37ce509) -  Adam Ficsor
 
-<a id="零知識證明-|-zero-knowledge-proofs"></a>
 ## 零知識證明 | Zero Knowledge Proofs
 
 零知識證明是一種基本的隱私方法，能夠證明給定信息的所有權，而無需披露信息本身，並且通過以隱私為重點的硬幣和其他區塊鏈的隱私增強改進實現了若干變化。
@@ -156,7 +155,6 @@
 * 一系列文章解釋了zk-SNARKs背後的技術如何運作
 	* [Zk-SNARKs：引擎蓋下](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6) -  Vitalik Buterin
 
-<a id="環簽名-|-ring-signatures"></a>
 ## 環簽名 | Ring Signatures
 
 環簽名是一種由Monero等隱私硬幣使用的數字簽名，允許網絡參與者的特定組(或環)中的任何成員通過特定組中的其他人驗證交易，而不會洩露誰批准了簽名。
@@ -173,7 +171,6 @@
 * 一個非常簡單的Monero動畫介紹和環簽名隱私
 	* [Monero：Ring Confidential Transactions](https://www.youtube.com/watch?v=M3AHp9KgTkQ) -  Monero
 
-<a id="mimblewimble"></a>
 ## MimbleWimble
 
 MimbleWimble是一個隱私和基層可擴展性的區塊鏈協議，最初於2016年推出，後來由數學家Adam Poelstra重新訪問和修訂。像Grin和Beam這樣的MimbleWimble實現維護了由Greg Maxwell開發的機密交易技術借用的鏈上交易的有效性。
@@ -202,7 +199,6 @@ MimbleWimble是一個隱私和基層可擴展性的區塊鏈協議，最初於20
 * 來自Beam的一篇關於隱私本體的論文，旨在幫助開發人員從純粹基於隱私的角度構建金融世界
 	* [隱私本體論簡介](https://medium.com/beam-mw/introduction-to-a-privacy-ontology-part-1-c59088a4186c) -  Beni Issembert
 
-<a id="蒲公英-|-dandelion"></a>
 ## 蒲公英 | Dandelion
 
 蒲公英是由Giulia Fanti引入的輕量級協議，在區塊鏈的基礎層實施，為節點引入新模式，以便相互通信網絡活動，同時阻礙了回溯事務傳播和破壞網絡隱私和安全的努力參與者。
@@ -219,7 +215,6 @@ MimbleWimble是一個隱私和基層可擴展性的區塊鏈協議，最初於20
 * Giulia Fanti介紹了蒲公英有可能大大提高比特幣在線交易的交易隱私
 	* [蒲公英 - 以比特幣為基礎](https://www.youtube.com/watch?v=SrE6KdBgI1o) -  Giulia Fanti
 
-<a id="防彈-|-bulletproofs"></a>
 ## 防彈 | Bulletproofs
 
 防彈是一種零知識證明，旨在實現高效的機密交易。與零知識“SNARKS”不同，Bulletproofs不需要參與者之間的可信設置，但驗證更加耗時。
@@ -242,7 +237,6 @@ MimbleWimble是一個隱私和基層可擴展性的區塊鏈協議，最初於20
 * 全面了解Monero當前的技術堆棧以及Bulletproofs的重要性
 	* [Monero變成防彈](https://medium.com/digitalassetresearch/monero-becomes-bulletproof-f98c6408babf) -  Lucas Nuzzi
 
-<a id="其他文章-|-other-articles"></a>
 ## 其他文章 | Other articles
 * [比特幣混合服務的政治](article/比特幣混合服務的政治.md)
 * [CoinJoin：現實世界的比特幣隱私](article/CoinJoin：現實世界的比特幣隱私.md)
