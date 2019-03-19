@@ -17,6 +17,7 @@
 - [MimbleWimble](#mimblewimble)
 - [蒲公英 | Dandelion](#蒲公英-|-dandelion)
 - [防彈 | Bulletproofs](#防彈-|-bulletproofs)
+- [其他文章 | Other articles](#其他文章-|-other-articles)
 
 <!-- /MarkdownTOC -->
 
@@ -240,3 +241,7 @@ MimbleWimble是一個隱私和基層可擴展性的區塊鏈協議，最初於20
 
 * 全面了解Monero當前的技術堆棧以及Bulletproofs的重要性
 	* [Monero變成防彈](https://medium.com/digitalassetresearch/monero-becomes-bulletproof-f98c6408babf) -  Lucas Nuzzi
+
+<a id="其他文章-|-other-articles"></a>
+## 其他文章 | Other articles
+* [比特幣混合服務的政治](article/比特幣混合服務的政治.md)
