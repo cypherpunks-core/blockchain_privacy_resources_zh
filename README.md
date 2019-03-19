@@ -4,9 +4,20 @@
 
 ***[Bitcoin Core 中的隱私](bitcoincore-privacy.md)***
 
-## 目錄
-* [概觀 | Overview](#概觀-|-Overview)
+## 目錄 | Contents
 
+<!-- MarkdownTOC -->
+
+- 概觀 | Overview
+- 背景 | Background
+- 機密交易 | Confidential Transactions
+- 零知識證明 | Zero Knowledge Proofs
+- 環簽名 | Ring Signatures
+- MimbleWimble
+- 蒲公英 | Dandelion
+- 防彈 | Bulletproofs
+
+<!-- /MarkdownTOC -->
 
 
 ## 概觀 | Overview
