@@ -1,4 +1,4 @@
-# 區塊鏈隱私技術資源 | Blockchain privacy technology resources
+# 區塊鏈隱私資源 | Blockchain privacy resources
 ![](https://img.shields.io/badge/Powered%20by-Chen%20Po%20Wei-blue.svg)
 ![](Blockchain-and-privacy.jpg)
 
