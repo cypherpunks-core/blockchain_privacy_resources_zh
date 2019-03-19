@@ -2,8 +2,6 @@
 
 2013年8月22日上午02:32:31
 
-*值得通過[monbux](https://bitcointalk.org/index.php?action=profile;u=133846)（10），[ebliever](https://bitcointalk.org/index.php?action=profile;u=255065)（5），[光滑](https://bitcointalk.org/index.php?action=profile;u=13813)（1），[ETFbitcoin](https://bitcointalk.org/index.php?action=profile;u=359716)（1），[Financisto](https://bitcointalk.org/index.php?action=profile;u=114848)（1）* [＃1](https://bitcointalk.org/index.php?topic=279249.msg2983902#msg2983902)
-
 比特幣通常被提升為隱私工具，但比特幣中唯一存在的隱私來自假名地址，這些地址很脆弱，很容易通過重用，“污點”分析，跟踪付款，IP地址監控節點，網絡抓取等等來妥協。機制。一旦破壞，這種隱私很難恢復，有時也很難恢復。
 
 傳統銀行業務默認提供相當數量的隱私。您的章程中沒有看到您購買的生育控制權剝奪了他們的大孩子，您的雇主沒有從您的薪水中了解您支持的非營利組織，而且小偷看不到您的最新購買或如何富有的你要幫助他們瞄準並欺騙你。比特幣隱私不佳對個人和企業來說都是一個主要的實際劣勢。
