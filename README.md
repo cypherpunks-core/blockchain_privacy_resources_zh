@@ -1,5 +1,5 @@
 # 區塊鏈隱私技術資源 | Blockchain privacy technology resources
-
+![](https://img.shields.io/badge/Powered%20by-Chen%20Po%20Wei-blue.svg)
 ### 概觀 | Overview
 
 隱私技術將成為加密設備領域最重要的部分之一。我們已經編制了一系列資源，介紹了機密交易，MimbleWimble，環簽名和零知識證明等概念。 
@@ -57,7 +57,7 @@
 * 關於Satoshi硬幣背景下比特幣隱私問題和匿名性改進的一般調查
 	* [誰會竊取Satoshi的比特幣？](https://medium.com/@nopara73/stealing-satoshis-bitcoins-cc4d57919a2b) -  Adam Ficsor
 
-### 機密交易
+### 機密交易 | Confidential Transactions
 
 機密交易是Adam Back在2014年討論的一種隱私方法，它混淆了交易金額，並且只向發送方，接收方和被選中的任何其他方公開此信息，以便查看此信息並提供參與者更簡單或更任意的證據。
 
@@ -85,7 +85,7 @@
 * 解釋為什麼機密交易可以改善隱私以及有關如何實施此技術的分歧
 	* [機密交易/防彈：房間裡的大象]（https://medium.com/@nopara73/confidential-transactions-bulletproofs-the-elephant-in-the-room-cfdb37ce509） -  Adam Ficsor
 
-### 零知識證明
+### 零知識證明 | Zero Knowledge Proofs
 
 零知識證明是一種基本的隱私方法，能夠證明給定信息的所有權，而無需披露信息本身，並且通過以隱私為重點的硬幣和其他區塊鏈的隱私增強改進實現了若干變化。
 
@@ -131,7 +131,7 @@
 * 一系列文章解釋了zk-SNARKs背後的技術如何運作
 	* [Zk-SNARKs：引擎蓋下]（https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6） -  Vitalik Buterin
 
-### Ring Signatures
+### 環簽名 | Ring Signatures
 
 環簽名是一種由Monero等隱私硬幣使用的數字簽名，允許網絡參與者的特定組（或環）中的任何成員通過特定組中的其他人驗證交易，而不會洩露誰批准了簽名。
 
@@ -175,7 +175,7 @@ MimbleWimble是一個隱私和基層可擴展性的區塊鏈協議，最初於20
 * 來自Beam的一篇關於隱私本體的論文，旨在幫助開發人員從純粹基於隱私的角度構建金融世界
 	* [隱私本體論簡介]（https://medium.com/beam-mw/introduction-to-a-privacy-ontology-part-1-c59088a4186c） -  Beni Issembert
 
-### 蒲公英
+### 蒲公英 | Dandelion
 
 蒲公英是由Giulia Fanti引入的輕量級協議，在區塊鏈的基礎層實施，為節點引入新模式，以便相互通信網絡活動，同時阻礙了回溯事務傳播和破壞網絡隱私和安全的努力參與者。
 
@@ -191,7 +191,7 @@ MimbleWimble是一個隱私和基層可擴展性的區塊鏈協議，最初於20
 * Giulia Fanti介紹了蒲公英有可能大大提高比特幣在線交易的交易隱私
 	* [蒲公英 - 以比特幣為基礎]（https://www.youtube.com/watch?v=SrE6KdBgI1o） -  Giulia Fanti
 
-### 防彈
+### 防彈 | Bulletproofs
 
 防彈是一種零知識證明，旨在實現高效的機密交易。與零知識“SNARKS”不同，Bulletproofs不需要參與者之間的可信設置，但驗證更加耗時。
 
