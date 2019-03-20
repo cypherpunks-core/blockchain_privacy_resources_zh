@@ -35,7 +35,7 @@
 
 
 * [走向隱私，保密，匿名和保密的概念方法](https://medium.com/beam-mw/toward-a-conceptual-approach-to-privacy-confidentiality-anonymity-and-secrecy-ea372e396240) -  Beni Issembert
-> 描述區塊鏈交易的隱私，機密性，匿名性和保密性之間的差異
+	描述區塊鏈交易的隱私，機密性，匿名性和保密性之間的差異
 
 
 
@@ -60,7 +60,6 @@
 
 * [比特幣問答：當比特幣可追溯時，我們如何保護隱私？](https://www.youtube.com/watch?v=PaNDHsix8cs) -  Andreas Antonopoulos
 > Andreas Antonopoulos向觀眾提出有關比特幣等貨幣的隱私問題和機會以及他們為新興經濟體帶來機遇的問題
-
 
 * [比特幣問答：匿名和保密交易](https://www.youtube.com/watch?v=MgTxkoLF2KA) -  Andreas Antonopoulos
 > 安德烈亞斯·安東諾普洛斯(Andreas Antonopoulos)向觀眾提出了關於匿名性對加密貨幣和最新隱私技術發展意味著什麼的問題
