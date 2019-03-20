@@ -16,3 +16,5 @@ Darkcoin對我如此有趣至少有兩個原因：
 [下載論文](http://cdn.anonymousbitcoinbook.com/darkcoin/darksend-paper/Atlas_Darksend-Analysis-v001.pdf) 
 
 -Kristov
+
+原文：http://blog.anonymousbitcoinbook.com/2014/09/paper-an-analysis-of-darkcoins-blockchain-privacy-via-darksend/
