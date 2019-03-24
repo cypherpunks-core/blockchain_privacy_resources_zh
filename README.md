@@ -9,17 +9,17 @@
 ## 目錄 | Contents
 
 <!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
-- [區塊鏈隱私資源 | Blockchain privacy resources](#區塊鏈隱私資源--blockchain-privacy-resources)
-	- [目錄 | Contents](#目錄--contents)
-	- [概觀 | Overview](#概觀--overview)
-	- [背景 | Background](#背景--background)
-	- [機密交易 | Confidential Transactions](#機密交易--confidential-transactions)
-	- [零知識證明 | Zero Knowledge Proofs](#零知識證明--zero-knowledge-proofs)
-	- [環簽名 | Ring Signatures](#環簽名--ring-signatures)
+- [區塊鏈隱私資源 | Blockchain privacy resources](#%E5%8D%80%E5%A1%8A%E9%8F%88%E9%9A%B1%E7%A7%81%E8%B3%87%E6%BA%90--blockchain-privacy-resources)
+	- [目錄 | Contents](#%E7%9B%AE%E9%8C%84--contents)
+	- [概觀 | Overview](#%E6%A6%82%E8%A7%80--overview)
+	- [背景 | Background](#%E8%83%8C%E6%99%AF--background)
+	- [機密交易 | Confidential Transactions](#%E6%A9%9F%E5%AF%86%E4%BA%A4%E6%98%93--confidential-transactions)
+	- [零知識證明 | Zero Knowledge Proofs](#%E9%9B%B6%E7%9F%A5%E8%AD%98%E8%AD%89%E6%98%8E--zero-knowledge-proofs)
+	- [環簽名 | Ring Signatures](#%E7%92%B0%E7%B0%BD%E5%90%8D--ring-signatures)
 	- [MimbleWimble](#mimblewimble)
-	- [蒲公英 | Dandelion](#蒲公英--dandelion)
-	- [防彈 | Bulletproofs](#防彈--bulletproofs)
-	- [其他文章 | Other articles](#其他文章--other-articles)
+	- [蒲公英 | Dandelion](#%E8%92%B2%E5%85%AC%E8%8B%B1--dandelion)
+	- [防彈 | Bulletproofs](#%E9%98%B2%E5%BD%88--bulletproofs)
+	- [其他文章 | Other articles](#%E5%85%B6%E4%BB%96%E6%96%87%E7%AB%A0--other-articles)
 <!-- TOC END -->
 
 
